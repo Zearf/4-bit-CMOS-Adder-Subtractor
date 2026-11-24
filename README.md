@@ -105,8 +105,4 @@ The increased delay is consistent with the effect of additional interconnect and
 - **Diva** — DRC, extraction, and LVS
 - **NCSU / course-provided CMOS technology environment** — device and layout rules
 
-## Repository notes
-
-This README includes figures exported from the project report. For a more complete repository, add a `docs/` directory containing the report PDF and, **if redistribution is permitted**, your original Virtuoso design-library files. Recreating the simulations requires access to a compatible technology/PDK and models; do not upload licensed foundry or course-provided PDK files without permission.
-
 **Project team:** Bao Nguyen and Ronnie Roi Gonzaga.
